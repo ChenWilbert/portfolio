@@ -16,17 +16,17 @@ April 2023 – August 2023
 - Utilized Flutter to work on company chat application
 
 ### Projects
-**(THESIS) Waste Not:  Exploring the Efficacy of Computer-Based Learning Environments in Proper Food Waste Management Education**
+**(THESIS) Waste Not:  Exploring the Efficacy of Computer-Based Learning Environments in Proper Food Waste Management Education**  
 Educational game developed using Godot that aims to teach players awareness on waste management strategies utilized by food establishments.
 
-**Kappé: A Mobile Accounting Application for the Coffee Farmers of the Province of Bukidnon**
+**Kappé: A Mobile Accounting Application for the Coffee Farmers of the Province of Bukidnon**  
 A financial tracker app developed using Flutter and Firebase for farmers to keep track of their finances and inventories.
 
-**Shoot n’ Scoot: Multiplayer Java Game**
+**Shoot n’ Scoot: Multiplayer Java Game**  
 A side-scrolling run and gun game developed using Java that can allow up to two players to play together through networking. 
 
-**From the Hill to EDSA: 37 years in the Ateneo since the 1986 Revolution**
-
+**From the Hill to EDSA: 37 years in the Ateneo since the 1986 Revolution**  
+From the Hill to EDSA is a project by the News, Inquiry, Photos, and Digital Development Staffs of AY 2022–2023. It is an interactive article detailing different events that transpired during the Philippines' 1986 Revolution.
 
 ### Co-Curricular Activities
 
