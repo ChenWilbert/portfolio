@@ -1,13 +1,13 @@
 # Wilbert Meinard Lee Chen
 
 ### Education
-**Ateneo de Manila University**
-BS Computer Science
-August 2020 – May 2024
+**Ateneo de Manila University**  
+BS Computer Science  
+August 2020 – May 2024  
 
-**Osaka University**
-International Exchange Student
-April 2023 – August 2023
+**Osaka University**  
+International Exchange Student  
+April 2023 – August 2023  
 
 ### Work Experience
 **Full Stack Web Developer Intern @ ROC.PH Digital Marketing Services**
