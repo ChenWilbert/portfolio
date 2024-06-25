@@ -31,18 +31,18 @@ A side-scrolling run and gun game developed using Java that can allow up to two 
 ### Co-Curricular Activities
 
 ### Technical Skills
-Java
-Python
-HTML/CSS
-Godot
-Flutter
-Git
+Java \n
+Python \n
+HTML/CSS \n
+Godot \n
+Flutter \n
+Git \n
 
 ### Language Experience
-**English** -- Native Language
-**Filipino** -- Native Language
-**Mandarin** -- Conversational
-**Hokkien** -- Conversational
-**Japanese** -- Basic (Currently taking N4)
+**English** -- Native Language \n
+**Filipino** -- Native Language \n
+**Mandarin** -- Conversational \n
+**Hokkien** -- Conversational \n
+**Japanese** -- Basic (Currently taking N4) \n
 
 ----
