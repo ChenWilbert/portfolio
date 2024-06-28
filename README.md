@@ -30,12 +30,12 @@ From the Hill to EDSA is a project by the News, Inquiry, Photos, and Digital Dev
 
 ### Co-Curricular Activities
 
-**Organization Strategies and Research Department | *Ateneo Celadon***
+**Organization Strategies and Research Department | *Ateneo Celadon***  
 OSR Consultant | July 2023 - April 2024  
 Provided analysis, opinions, methods, and recommendations to different departments of the organization based on data research and own expertise.
 Assigned to projects of the organization to handle data collection, management, and analysis.  
 
-**Digital Development Staff | *The Guidon***
+**Digital Development Staff | *The Guidon***  
 Developer | September 2022 - May 2023  
 The Digital Development staff provides an avenue to innovate Philippine campus journalism through the production of strong, visionary, and meaningful interactive articles.  
 Developed interactive websites for news dissemination.  
